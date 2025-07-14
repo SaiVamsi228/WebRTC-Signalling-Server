@@ -1,4 +1,4 @@
-# 🚦 WebRTC Signalling Server
+# 🚦 YJS WebRTC Signalling Server(LICENSED BY MIT)
 
 Welcome to the **WebRTC Signalling Server** 👋  
 This project powers real-time communication between clients in a collaborative code editor, enabling seamless peer-to-peer connections using WebRTC technology.
@@ -11,12 +11,7 @@ This project powers real-time communication between clients in a collaborative c
 ## 🏗️ How It Works
 The signalling server acts as a middleman, helping clients discover each other and coordinate WebRTC connections. Once connected, clients communicate directly for fast, low-latency collaboration.
 
-## 🚀 Technologies Used
-- Node.js
-- WebSocket
-- WebRTC
 
 
 ---
 
-> Built with ❤️ by [SaiVamsi228](https://github.com/SaiVamsi228)
