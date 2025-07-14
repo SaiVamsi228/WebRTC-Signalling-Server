@@ -16,9 +16,6 @@ The signalling server acts as a middleman, helping clients discover each other a
 - WebSocket
 - WebRTC
 
-## 🖼️ Preview
-![WebRTC Icon](https://img.icons8.com/ios-filled/100/webrtc.png)
-![Collaboration Icon](https://img.icons8.com/ios-filled/100/collaboration.png)
 
 ---
 
